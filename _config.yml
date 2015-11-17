@@ -1,0 +1,23 @@
+name: 'Tamiami Orchid Festival '
+favicon: null
+layout_spectrum: 0.21006476134061813
+typography_spectrum: 0.9896370186470449
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9174893074668944
+  lightness: 0.01921469159424305
+  saturation: 0.5979952649213374
+  rhythmicContrast: 0.403045407962054
+purpose: []
