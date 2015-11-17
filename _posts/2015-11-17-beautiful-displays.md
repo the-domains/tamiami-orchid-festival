@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-11-17T18:58:56.034Z'
+datePublished: '2015-11-17T21:09:21.047Z'
 publisher:
   domain: ''
   name: ''
 title: Beautiful displays
-dateModified: '2015-11-17T18:56:34.689Z'
+dateModified: '2015-11-17T18:58:56.034Z'
 sourcePath: _posts/2015-11-17-beautiful-displays.md
 published: true
 inFeed: true
