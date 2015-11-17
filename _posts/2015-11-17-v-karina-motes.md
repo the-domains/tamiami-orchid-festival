@@ -6,20 +6,20 @@ inLanguage: null
 starred: true
 keywords: []
 description: The original black vanda
-datePublished: '2015-11-17T21:09:20.819Z'
-dateModified: '2015-11-17T21:08:03.669Z'
+datePublished: '2015-11-17T21:58:02.778Z'
+dateModified: '2015-11-17T21:57:58.774Z'
 title: V. Karina Motes
+sourcePath: _posts/2015-11-17-v-karina-motes.md
+published: true
 authors: []
 publisher:
-  favicon: null
   name: null
   domain: null
   url: null
-sourcePath: _posts/2015-11-17-v-karina-motes.md
-published: true
+  favicon: null
 url: v-karina-motes/index.html
 _type: Article
 
 ---
-2016 Tamiami International Orchid Festival January 23-24, 2016
+Tamiami International Orchid Festival January 23-24, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50b224e9-b67a-4c4f-a548-68b31c3865bb.jpg)
