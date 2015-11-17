@@ -17,8 +17,8 @@ keywords:
   - amateur
   - redland
 description: 'Martin Motes has been dedicated to growing orchids for more than 50 years. He started growing them when he was a child. Since then, he has studied horticulture, authored several books about growing orchids and even runs his business, Motes Orchids, in Redland.'
-datePublished: '2015-11-17T22:03:19.576Z'
-dateModified: '2015-11-17T22:03:08.020Z'
+datePublished: '2015-11-17T22:11:42.349Z'
+dateModified: '2015-11-17T22:11:36.191Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Weekend festival to draw orchid lovers to Tamiami</h1><img src="http://www.miamiherald.com/news/local/community/miami-dade/west-miami-dade/h8fv3c/picture6137520/ALTERNATES/LANDSCAPE_1140/TamiamiShow-09--.jpg" /></article>
+<article style=""><h1>Weekend festival to draw orchid lovers to Tamiami</h1><p>Article about last year's festival.</p><img src="http://www.miamiherald.com/news/local/community/miami-dade/west-miami-dade/h8fv3c/picture6137520/ALTERNATES/LANDSCAPE_1140/TamiamiShow-09--.jpg" /></article>
