@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  name: Tamiamiorchidfestival
-  domain: tamiamiorchidfestival.com
   url: 'http://tamiamiorchidfestival.com'
+  name: Tamiamiorchidfestival
   favicon: null
+  domain: tamiamiorchidfestival.com
 keywords:
   - orchid
   - 10am
@@ -22,15 +22,13 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://tamiamiorchidfestival.com/'
 title: "Tamiami International Orchid Festival | Winter's Biggest Orchid Show, Miami, Florida"
-datePublished: '2015-11-20T02:23:45.942Z'
-dateModified: '2015-11-20T02:23:34.401Z'
+datePublished: '2015-11-20T02:30:31.566Z'
+dateModified: '2015-11-20T02:30:04.891Z'
+sourcePath: _posts/2015-11-20-tamiami-international-orchid-festival-or-winters-biggest-orc.md
+published: true
 inFeed: true
 hasPage: false
 inNav: false
-starred: false
-authors: []
-sourcePath: _posts/2015-11-20-tamiami-international-orchid-festival-or-winters-biggest-orc.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
