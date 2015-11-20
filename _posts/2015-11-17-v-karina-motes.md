@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: The original black vanda
-datePublished: '2015-11-17T21:58:02.778Z'
-dateModified: '2015-11-17T21:57:58.774Z'
+datePublished: '2015-11-20T02:26:40.230Z'
+dateModified: '2015-11-20T02:26:34.450Z'
 title: V. Karina Motes
 sourcePath: _posts/2015-11-17-v-karina-motes.md
 published: true
@@ -17,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+author: []
 url: v-karina-motes/index.html
 _type: Article
 
