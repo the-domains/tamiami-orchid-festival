@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: 'Tamiami Orchid Festival '
+favicon: null
+layout_spectrum: 0.15837
+typography_spectrum: 0.5394265
 collections:
   - index:
       path: /
@@ -18,24 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.30897
 title: 2016 Tamiami International Orchid Festival
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5979952649213374
-  brandStrength: 0.25
-  rhythmicContrast: 0.5
   brandColors:
     - '#FFFFFF'
     - '#030102'
     - '#656576'
     - '#300165'
     - '#7728BE'
+  brandStrength: 0.1875
   lightness: 0.5
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
-favicon: null
-name: 'Tamiami Orchid Festival '
-typography_spectrum: 0.5394265
